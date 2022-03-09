@@ -1,0 +1,30 @@
+.anggota img {
+  width: 250px;
+  border: 10px solid black;
+}
+
+.anggota p a {
+  text-decoration: none;
+  color: black;
+}
+
+.anggota p a:hover {
+  color: red;
+}
+
+.anggota h4 {
+  padding-top: 0.5px;
+}
+
+body h5 {
+  padding-bottom: 20px;
+}
+
+.anggota {
+  padding-top: 5px;
+  padding-right: 10px;
+}
+
+body {
+  overflow: hidden;
+}
